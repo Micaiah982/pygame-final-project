@@ -3,8 +3,20 @@
 #I didn't finish this (I'm sorry :(
 #Also idk how to import a file so
 
-pygame_final_project.py
+pygame_final_project.py:
+#Credits -
+#The music was made by CodeManu on opengameart.org
+#The cat fighter was made by dogchicken on opengameart.org
+#The dog fighter with a gun (a remix of IsometricRobot's dog) was made by Gory Figment
+    #The original dog fighter (a remix of dogchicken's cat) was made by IsometricRobot
+#Links
+    #https://opengameart.org/content/cat-fighter-sprite-sheet
+    #https://opengameart.org/content/dog-fighter-cat-fighter-remix-base-add-on-one
+    #https://opengameart.org/content/dog-fighter-addon2-assault-rifle-kit
+    #https://opengameart.org/content/platformer-game-music-pack
+
 import pygame
+
 from fighter import Fighter
 from sys import exit
 
