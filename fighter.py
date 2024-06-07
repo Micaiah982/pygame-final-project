@@ -66,9 +66,9 @@ class Fighter():
                 if  key[pygame.K_q] or key[pygame.K_e]:
                     self.attack(surface, target)
                     #determine which attack was used
-                    if key[pygame.K_r]:
+                    if key[pygame.K_q]:
                         self.attack_type = 1
-                    if key[pygame.K_t]:
+                    if key[pygame.K_e]:
                         self.attack_type = 2
             
             if self.player == 2:
@@ -87,9 +87,9 @@ class Fighter():
                 if  key[pygame.K_u] or key[pygame.K_o]:
                     self.attack(surface, target)
                     #determine which attack was used
-                    if key[pygame.K_r]:
+                    if key[pygame.K_u]:
                         self.attack_type = 1
-                    if key[pygame.K_t]:
+                    if key[pygame.K_o]:
                         self.attack_type = 2
         
         #Gravity
