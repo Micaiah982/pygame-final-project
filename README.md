@@ -3,7 +3,7 @@
 #I didn't finish this (I'm sorry :(
 #Also idk how to import a file so
 
-pygame_final_project.py:
+    #pygame_final_project.py:
 #Credits -
 #I used a tutorial video by Coding With Russ, called PyGame Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial
 #The music was made by CodeManu on opengameart.org
@@ -107,7 +107,7 @@ while True:
     clock.tick(60)
 
 
-fighter.py:
+    #fighter.py:
 import pygame
 
 class Fighter():
