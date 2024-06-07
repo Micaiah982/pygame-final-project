@@ -1,6 +1,6 @@
-# pygame-final-project
+* # pygame-final-project
 
-#I didn't finish this (I'm sorry :(
+* #I didn't finish this (I'm sorry :(
 #Also idk how to import a file so
 
     #pygame_final_project.py:
