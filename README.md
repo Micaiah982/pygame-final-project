@@ -105,7 +105,7 @@ while True:
     clock.tick(60)
 
 
-fighter.py
+fighter.py:
 import pygame
 
 class Fighter():
