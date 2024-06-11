@@ -1,4 +1,4 @@
-Two-Player Fighting Game
+(Unfinished) Two-Player Fighting Game
 
 Cat Controls: WASD (Movement + Jumping), Q (Attack 1), E (Attack 2)
 
